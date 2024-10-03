@@ -1,2 +1,2 @@
 # docs
-Developer docs for Cabana Labs solution integrations
+Developer docs for Cabana Labs integrations

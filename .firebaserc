@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "cabana-identity"
+  },
+  "targets": {
+    "cabana-identity": {
+      "hosting": {
+        "docs": [
+          "cabana-docs"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
